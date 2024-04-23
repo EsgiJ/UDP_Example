@@ -1,0 +1,5 @@
+﻿  UDP_Communication_Framework.cpp
+C:\Users\oldjo\Documents\CTU Lessons\Computer Networks\Task01\RECEIVER_UDP_Communication_Framework\UDP_Communication_Framework\UDP_Communication_Framework.cpp(58,7): warning C4101: 'buffer_tx': yerel değişken başvurusu kaldırıldı
+  ('/UDP_Communication_Framework.cpp' kaynak dosyası derleniyor)
+  
+  UDP_Communication_Framework.vcxproj -> C:\Users\oldjo\Documents\CTU Lessons\Computer Networks\Task01\RECEIVER_UDP_Communication_Framework\x64\Debug\UDP_Communication_Framework.exe

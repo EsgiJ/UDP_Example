@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oldjo\\Documents\\CTU Lessons\\Computer Networks\\Task01\\RECEIVER_UDP_Communication_Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21D0050F-3D4F-4573-BF88-DCC5F03D632F}|UDP_Communication_Framework\\UDP_Communication_Framework.vcxproj|C:\\Users\\oldjo\\Documents\\CTU Lessons\\Computer Networks\\Task01\\RECEIVER_UDP_Communication_Framework\\UDP_Communication_Framework\\UDP_Communication_Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21D0050F-3D4F-4573-BF88-DCC5F03D632F}|UDP_Communication_Framework\\UDP_Communication_Framework.vcxproj|solutionrelative:UDP_Communication_Framework\\UDP_Communication_Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UDP_Communication_Framework.cpp",
+              "DocumentMoniker": "C:\\Users\\oldjo\\Documents\\CTU Lessons\\Computer Networks\\Task01\\RECEIVER_UDP_Communication_Framework\\UDP_Communication_Framework\\UDP_Communication_Framework.cpp",
+              "RelativeDocumentMoniker": "UDP_Communication_Framework\\UDP_Communication_Framework.cpp",
+              "ToolTip": "C:\\Users\\oldjo\\Documents\\CTU Lessons\\Computer Networks\\Task01\\RECEIVER_UDP_Communication_Framework\\UDP_Communication_Framework\\UDP_Communication_Framework.cpp",
+              "RelativeToolTip": "UDP_Communication_Framework\\UDP_Communication_Framework.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T18:18:07.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
